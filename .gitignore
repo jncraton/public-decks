@@ -1,0 +1,5 @@
+*.html
+reveal.js
+*-qr.png
+*.webp
+*/qr.png
