@@ -45,7 +45,7 @@ The mission of Anderson University is to educate for a life of faith and service
 Creation
 --------
 
-[Soar, Raven, Soar](https://github.com/jncraton/soar-raven-soar)
+[Sample Application](https://github.com/jncraton/soar-raven-soar)
 
 Our Programs
 ------------
