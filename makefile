@@ -1,4 +1,4 @@
-all: bw-memory/index.html llm-pdc/index.html llm-everyone/index.html exceptions/index.html python-for/index.html truthfinders-ai/index.html cs-intro/index.html
+all: cs-intro/index.html
 
 .PHONY: clean
 
