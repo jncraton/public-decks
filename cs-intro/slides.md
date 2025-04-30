@@ -38,6 +38,11 @@ Service
 
 The mission of Anderson University is to educate for a life of faith and service in the church and society.
 
+Building
+--------
+
+[Soar, Raven, Soar](https://github.com/jncraton/soar-raven-soar)
+
 Our Programs
 ------------
 
