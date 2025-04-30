@@ -22,6 +22,10 @@ Understanding
 
 ![Antikythera's harbour Potamos](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikythera.JPG/540px-Antikythera.JPG)
 
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solar_eclipse_1999_4.jpg/500px-Solar_eclipse_1999_4.jpg)
+
 Antikythera Mechanism
 ---------------------
 
