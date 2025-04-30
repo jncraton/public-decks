@@ -1,14 +1,14 @@
-What is Computer Science
-========================
+What is Computer Science?
+=========================
 
-Understanding
--------------
+---
 
 "Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes, or chemistry is about beakers and test tubes."
 
 [Source](https://archive.cra.org/CRN/issues/9301.pdf)
 
----
+Understanding
+-------------
 
 "Science is not about tools, it is about how we use them and what we find out when we do."
 
